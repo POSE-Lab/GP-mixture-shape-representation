@@ -1,11 +1,15 @@
 # Shape Representation using Gaussian Process mixture models
 
+<div align="center">
+<span style="color:blue; **font-weight:bold;**">
 Panagiotis Sapoutzoglou, George Terzakis, Georgios Floros, Maria Pateraki
+</span>
 
 Laboratory of Photogrammetry, School of Rural, Surveying and Geoinformatics Engineering,
 National Technical University of Athens, Greece
-(psapoutzoglou, gterzakis, gfloros, mpateraki)@mail.ntua.gr
 
+(psapoutzoglou, gterzakis, gfloros, mpateraki)@mail.ntua.gr
+</div>
 
 **Abstract**: Traditional explicit 3D representations, such as point clouds and meshes, demand significant storage to capture fine geometric details
 and require complex indexing systems for surface lookups, making functional representations an efficient, compact, and continuous
