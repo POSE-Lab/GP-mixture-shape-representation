@@ -11,6 +11,12 @@ National Technical University of Athens, Greece
 (psapoutzoglou, gterzakis, gfloros, mpateraki)@mail.ntua.gr
 </div>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2604.00862">
+    <img src="https://img.shields.io/badge/arXiv-2301.12345-b31b1b.svg" alt="arXiv">
+  </a>
+</p>
+
 **Abstract**: Traditional explicit 3D representations, such as point clouds and meshes, demand significant storage to capture fine geometric details
 and require complex indexing systems for surface lookups, making functional representations an efficient, compact, and continuous
 alternative. In this work, we propose a novel, object-specific functional shape representation that models surface geometry with
